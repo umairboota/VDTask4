@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-02-25T21:51:55 PKT" name="Default suite" finished-at="2024-02-25T21:52:47 PKT" duration-ms="51892">
+    <groups>
+    </groups>
+    <test started-at="2024-02-25T21:51:55 PKT" name="Default test" finished-at="2024-02-25T21:52:47 PKT" duration-ms="51892">
+      <class name="com.qa.tests.TaskFourTests">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:51:55 PKT" name="setUp" finished-at="2024-02-25T21:52:14 PKT" duration-ms="18682" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="pageTitleNameTest()[pri:1, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:52:14 PKT" name="pageTitleNameTest" finished-at="2024-02-25T21:52:14 PKT" duration-ms="13" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- pageTitleNameTest -->
+        <test-method signature="scenario_one()[pri:2, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:52:14 PKT" name="scenario_one" finished-at="2024-02-25T21:52:23 PKT" duration-ms="8848" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario_one -->
+        <test-method signature="scenario_two()[pri:2, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:52:23 PKT" name="scenario_two" finished-at="2024-02-25T21:52:47 PKT" duration-ms="24189" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- scenario_two -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:52:47 PKT" name="tearDown" finished-at="2024-02-25T21:52:47 PKT" duration-ms="120" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.qa.tests.TaskFourTests -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

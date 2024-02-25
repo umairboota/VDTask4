@@ -20,7 +20,7 @@ public class TestBase {
 	public TestBase() {
 		try {
 			prop = new Properties();
-			FileInputStream ip = new FileInputStream("C:\\Users\\umair.boota_ventured\\Desktop\\test_automation\\Test_Assignment\\src\\main\\java\\com\\qa\\config\\config.properties");
+			FileInputStream ip = new FileInputStream("C:\\Users\\umair.boota_ventured\\Desktop\\test_automation\\TaskFour\\src\\main\\java\\com\\qa\\config\\config.properties");
 			prop.load(ip);
 			
 		}
