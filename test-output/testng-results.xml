@@ -2,32 +2,32 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2024-02-25T21:51:55 PKT" name="Default suite" finished-at="2024-02-25T21:52:47 PKT" duration-ms="51892">
+  <suite started-at="2024-02-25T22:55:31 PKT" name="Suite" finished-at="2024-02-25T22:55:53 PKT" duration-ms="21518">
     <groups>
     </groups>
-    <test started-at="2024-02-25T21:51:55 PKT" name="Default test" finished-at="2024-02-25T21:52:47 PKT" duration-ms="51892">
+    <test started-at="2024-02-25T22:55:31 PKT" name="Test" finished-at="2024-02-25T22:55:53 PKT" duration-ms="21518">
       <class name="com.qa.tests.TaskFourTests">
-        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:51:55 PKT" name="setUp" finished-at="2024-02-25T21:52:14 PKT" duration-ms="18682" status="PASS">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:com.qa.tests.TaskFourTests@292b08d6]" started-at="2024-02-25T22:55:31 PKT" name="setUp" finished-at="2024-02-25T22:55:37 PKT" duration-ms="5434" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUp -->
-        <test-method signature="pageTitleNameTest()[pri:1, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:52:14 PKT" name="pageTitleNameTest" finished-at="2024-02-25T21:52:14 PKT" duration-ms="13" status="PASS">
+        <test-method signature="pageTitleNameTest()[pri:1, instance:com.qa.tests.TaskFourTests@292b08d6]" started-at="2024-02-25T22:55:37 PKT" name="pageTitleNameTest" finished-at="2024-02-25T22:55:37 PKT" duration-ms="26" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- pageTitleNameTest -->
-        <test-method signature="scenario_one()[pri:2, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:52:14 PKT" name="scenario_one" finished-at="2024-02-25T21:52:23 PKT" duration-ms="8848" status="PASS">
+        <test-method signature="scenario_one()[pri:2, instance:com.qa.tests.TaskFourTests@292b08d6]" started-at="2024-02-25T22:55:37 PKT" name="scenario_one" finished-at="2024-02-25T22:55:43 PKT" duration-ms="6175" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario_one -->
-        <test-method signature="scenario_two()[pri:2, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:52:23 PKT" name="scenario_two" finished-at="2024-02-25T21:52:47 PKT" duration-ms="24189" status="PASS">
+        <test-method signature="scenario_two()[pri:2, instance:com.qa.tests.TaskFourTests@292b08d6]" started-at="2024-02-25T22:55:43 PKT" name="scenario_two" finished-at="2024-02-25T22:55:52 PKT" duration-ms="9263" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- scenario_two -->
-        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.TaskFourTests@206a70ef]" started-at="2024-02-25T21:52:47 PKT" name="tearDown" finished-at="2024-02-25T21:52:47 PKT" duration-ms="120" status="PASS">
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:com.qa.tests.TaskFourTests@292b08d6]" started-at="2024-02-25T22:55:52 PKT" name="tearDown" finished-at="2024-02-25T22:55:53 PKT" duration-ms="183" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDown -->
       </class> <!-- com.qa.tests.TaskFourTests -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>
